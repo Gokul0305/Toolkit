@@ -1,0 +1,16 @@
+[train]
+
+RUN_NAME = ""
+IMG_SIZE = 416
+BATCH_SIZE = 2
+NUM_EPOCHS = 25
+
+CLASSES = ['background','Cap']
+TRAIN_DIR = "data/raw/Cylinder/train"
+VALID_DIR = "data/raw/Cylinder/valid"
+NUM_CLASSES = 2
+VISUALIZE_TRANSFORMED_IMAGES = false
+OUT_DIR = 'checkpoints/'
+
+SAVE_PLOTS_EPOCH = 2 
+SAVE_MODEL_EPOCH = 2

@@ -1,0 +1,27 @@
+<annotation>
+	<folder></folder>
+	<filename>result82-2-_jpg.rf.b28be6fb10248839ae7c004930fb77a0.jpg</filename>
+	<path>result82-2-_jpg.rf.b28be6fb10248839ae7c004930fb77a0.jpg</path>
+	<source>
+		<database>roboflow.com</database>
+	</source>
+	<size>
+		<width>640</width>
+		<height>640</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Cap</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<occluded>0</occluded>
+		<bndbox>
+			<xmin>281</xmin>
+			<xmax>371</xmax>
+			<ymin>259</ymin>
+			<ymax>384</ymax>
+		</bndbox>
+	</object>
+</annotation>
